@@ -1,0 +1,5 @@
+requests
+xlwt
+secure-smtplib
+openpyxl 
+email
